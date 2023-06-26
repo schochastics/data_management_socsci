@@ -1,0 +1,25 @@
+---
+title: "Data Management for Social Scientists"
+format: html
+description: 'A short description of the book "Data Management for Social Scientists" by Nils B. Weidmann'
+author: David Schoch
+institute: GESIS - Leibniz Institute for the Social Sciences
+---
+
+# Overview
+
+The book "Data Management for Social Scientists" by Nils B. Weidmann addresses the need for improved data processing and management in empirical social science research. It emphasizes the importance of properly preparing data for analysis, which is often overlooked in social science training. The book aims to bridge this gap by providing guidance on data processing and management using various tools and software packages.
+
+The research cycle in social sciences involves three stages: data collection, data processing, and data analysis. The book primarily focuses on the second stage, data processing, which involves cleaning, recoding, and combining data to create analysis-ready datasets. It emphasizes the significance of documenting the data processing steps to ensure transparency, replicability, and convenience for researchers.
+
+The book distinguishes data processing as a separate step in the research workflow and recommends treating it differently from data collection and data analysis. It challenges some conventional practices, such as using spreadsheets for data management, and highlights the benefits of specialized software for efficient data processing.
+
+The advantages of proper data processing include improved convenience, replicability, transparency, and scalability. The book encourages researchers to adopt automated data processing methods, document their processing steps, and share their code to facilitate replication and transparency in research.
+
+Overall, the book aims to equip social science researchers with the necessary skills and knowledge to effectively process and manage data for empirical analysis. It fills a gap in social science training and addresses the challenges posed by larger and more complex datasets in the age of "Big Data."
+
+
+The book is available as open access
+:::{style="text-align:center"}
+<https://doi.org/10.1017/9781108990424>
+:::
