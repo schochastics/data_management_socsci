@@ -10,16 +10,17 @@ institute: GESIS - Leibniz Institute for the Social Sciences
 
 The book "Data Management for Social Scientists" by Nils B. Weidmann addresses the need for improved data processing and management in empirical social science research. It emphasizes the importance of properly preparing data for analysis, which is often overlooked in social science training. The book aims to bridge this gap by providing guidance on data processing and management using various tools and software packages.
 
-The research cycle in social sciences involves three stages: data collection, data processing, and data analysis. The book primarily focuses on the second stage, data processing, which involves cleaning, recoding, and combining data to create analysis-ready datasets. It emphasizes the significance of documenting the data processing steps to ensure transparency, replicability, and convenience for researchers.
+Data processing involves tasks such as cleaning, recoding, and combining data to create analysis-ready datasets. A properly documented (automated) data processing pipeline can enhance transparency and replicability of a research pipeline and adds convenience for researchers. To achieve this, the book challenges some conventional practices, such as using spreadsheets for data management, and highlights the benefits of specialized software for efficient data processing.
 
-The book distinguishes data processing as a separate step in the research workflow and recommends treating it differently from data collection and data analysis. It challenges some conventional practices, such as using spreadsheets for data management, and highlights the benefits of specialized software for efficient data processing.
-
-The advantages of proper data processing include improved convenience, replicability, transparency, and scalability. The book encourages researchers to adopt automated data processing methods, document their processing steps, and share their code to facilitate replication and transparency in research.
-
-Overall, the book aims to equip social science researchers with the necessary skills and knowledge to effectively process and manage data for empirical analysis. It fills a gap in social science training and addresses the challenges posed by larger and more complex datasets in the age of "Big Data."
+The book is divided into five parts. The first part includes the introduction, discussing the role of data preparation and management, as well as the software setup. The second part covers data processing with files, including an overview of file-based data storage and data management using spreadsheet software and R. The third part focuses on specialized systems, such as databases, explaining relational databases and their technical features. The fourth part addresses specialized data types like spatial, text, and network data, discussing their processing with R and database systems. The fifth part concludes with recommendations for collaborative data projects and data publication. The book aims to provide an overview of different tools and approaches for data management.
 
 
 The book is available as open access
+
 :::{style="text-align:center"}
 <https://doi.org/10.1017/9781108990424>
 :::
+
+# About the author
+
+Nils Weidman is a Professor of Political Science and head of the "Communication, Networks and Contention" Research Group at the University of Konstanz, Germany. He held research fellowships at the Centre for the Study of Civil War, Peace Research Institute Oslo (2011-12), the Jackson Institute, Yale University (2010-11), and the Woodrow Wilson School, Princeton University (2009-10). He received a M.Sc. in Computer Science from the University of Freiburg (Germany) in 2003, a M.A. in Comparative and International Studies from ETH Zurich (Switzerland) in 2008, and a Ph.D. in Political Science from ETH Zurich in 2009.
